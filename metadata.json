@@ -1,0 +1,11 @@
+{
+  "name": "Grocera Local",
+  "description": "Queue-Free Smart Grocery System for local neighborhoods. Features smart cart, express checkout, and live queue monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
